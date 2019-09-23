@@ -11,7 +11,7 @@ fn main() {
         .pic(true)
         .warnings(false)
         .file(dir.join("parser.c"))
-        .compile("basinga");
+        .compile("parser");
 
     cpp_builder
         .include(&dir)
