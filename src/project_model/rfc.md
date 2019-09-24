@@ -15,6 +15,9 @@ need to be supported since they are used to avoid userspace pollution.
 # Guide-level explanation
 [guide-level-explanation]: #guide-level-explanation
 
+Poetry: pyproject.toml
+Pipenv: Pipfile
+
 Explain the proposal as if it was already included in the language and you were teaching it to another Rust programmer. That generally means:
 
 - Introducing new named concepts.
