@@ -1,3 +1,6 @@
 [submodule "tree-sitter-python"]
 	path = src/ide_api/tree-sitter-python
 	url = https://github.com/tree-sitter/tree-sitter-python
+[submodule "typeshed"]
+	path = typeshed
+	url = https://github.com/python/typeshed.git
